@@ -1,0 +1,2 @@
+Just another txt file.
+Used for git workshop.
